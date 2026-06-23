@@ -1,0 +1,14 @@
+# Okolina i tajne
+.env
+
+# Logovi i upload
+/storage/logs/*
+/storage/uploads/*
+!/storage/logs/.gitkeep
+!/storage/uploads/.gitkeep
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
