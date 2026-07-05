@@ -1,4 +1,4 @@
-# banknote.hr - REST API
+# Webshop REST API — kolekcionarske novčanice
 
 **Autor:** Marko (mspoljarec) | **Kolegij:** Poslužiteljske Web Aplikacije
 

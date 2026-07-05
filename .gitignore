@@ -12,3 +12,5 @@
 *.swp
 .idea/
 .vscode/
+
+vendor/
