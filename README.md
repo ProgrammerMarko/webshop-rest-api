@@ -1,4 +1,4 @@
-# Webshop REST API — kolekcionarske novčanice
+# Webshop REST API za kolekcionarske novčanice
 
 **Autor:** Marko (mspoljarec) | **Kolegij:** Poslužiteljske Web Aplikacije
 
